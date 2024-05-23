@@ -6,7 +6,7 @@ weight: 1
 
 Software Engineering is a crucial aspect of modern business operations, involving the design, development, and management of software systems that support organizational goals.
 
-![Cloud Infrastructure](/images/services/BigInt_cloud_infra.png)
+![Software Engineering](/images/services/BigInt_software_eng.png)
 
 # Objectives
 
