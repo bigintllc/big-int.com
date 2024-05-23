@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Github",
+    "link": "https://github.com/bigint_llc",
+    "image": "images/social/github.svg"
+  },
+  {
+    "name": "Email",
+    "link": "info@bigint.com ",
+    "image": "images/social/email.svg"
+  }
+]
