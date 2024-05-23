@@ -21,4 +21,4 @@ BigInt LLC prides itself on staying at the forefront of technology, utilizing a 
 
 At BigInt LLC, we are committed to delivering excellence in every project. Our team of experts is dedicated to helping your business succeed by providing innovative, reliable, and efficient technology solutions tailored to your specific needs.
 
-For more information about our services or to discuss your project requirements, please [contact us](contact_page_link).
+For more information about our services or to discuss your project requirements, please [contact us](/contact).

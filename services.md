@@ -5,27 +5,27 @@ description: Services
 bodyClass: page-services
 ---
 
-## [Software Engineering Services](/bigint.us/services/software-engineering/)
+## [Software Engineering Services](/services/software-engineering/)
 BigInt LLC offers consulting services for both short-term and long-term projects. Our team of experienced engineers excels in:
 - **Custom Software Development**: Tailoring software solutions to meet specific business requirements.
 - **Support consulting teams**: Support consulting teams by adding more workforce and helping freelancers manage multiple projects.
 - **Technology Stack**: Proficient in using Python, Java, Scala, SQL, and other languages; frameworks such as Apache Spark, Hadoop, and TensorFlow.
 
 
-## [Cloud Infrastructure Management](/bigint.us/services/cloud-management/)
+## [Cloud Infrastructure Management](/services/cloud-management/)
 Our cloud infrastructure management services help optimize your cloud resources for performance and cost-efficiency:
 - **Cloud Providers**: Extensive experience with AWS, Google Cloud Platform, Microsoft Azure, and IBM Cloud.
 - **Cloud Optimization**: Experts in utilizing free tier capabilities of all cloud providers to minimize costs while maximizing efficiency.
 - **Infrastructure as Code**: Implementing infrastructure using tools like Terraform and AWS CloudFormation for automated, scalable, and repeatable deployments.
 
-## [Data Engineering Services](/bigint.us/services/data-engineering/)
+## [Data Engineering Services](/services/data-engineering/)
 BigInt LLC offers consulting services for both short-term and long-term projects. Our team of experienced engineers excels in:
 - **Data Pipeline Management**: Ensuring smooth and efficient data flow across systems.
 - **Support consulting teams**: Support consulting teams by adding more workforce and helping freelancers manage multiple projects.
 - **Technology Stack**: Proficient in using Snowflake, Databricks, SQLITE, Redshift and Synapse.
 
 
-## [Web Management and SEO](/bigint.us/services/web-seo/)
+## [Web Management and SEO](/services/web-seo/)
 
 Our web management and SEO services encompass everything needed to keep your online presence effective, secure, and highly visible to potential customers:
 
@@ -44,4 +44,4 @@ BigInt LLC also offers a range of other related services tailored to meet the un
 - **DevOps and CI/CD**: Implementing DevOps practices and continuous integration/continuous deployment pipelines using Jenkins, GitLab CI, and AWS CodePipeline.
 
 
-For more information about our services or to discuss your project requirements, please [contact us](/bigint.us/contact/).
+For more information about our services or to discuss your project requirements, please [contact us](/contact/).

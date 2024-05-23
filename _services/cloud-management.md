@@ -6,7 +6,7 @@ weight: 1
 
 Cloud Infrastructure Management is a vital component of modern IT operations, ensuring that cloud resources are optimized for performance, scalability, and cost-efficiency.
 
-![Cloud Infrastructure](/bigint.us/images/services/BigInt_cloud_infra.png)
+![Cloud Infrastructure](/images/services/BigInt_cloud_infra.png)
 
 # Objectives
 
@@ -102,4 +102,4 @@ Our team continuously updates their skills through training and development prog
 ---
 
 
-For a comprehensive overview of all our services, please visit our [services page](/bigint.us/services/).
+For a comprehensive overview of all our services, please visit our [services page](/services/).
