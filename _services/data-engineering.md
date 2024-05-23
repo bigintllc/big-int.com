@@ -6,7 +6,7 @@ weight: 1
 
 Data Engineering is a crucial aspect of modern business operations, involving the design, development, and management of data systems that support organizational goals.
 
-![Data Engineering](/images/services/services/BigInt_data_eng.png)
+![Data Engineering](/images/services/BigInt_data_eng.png)
 
 # Objectives
 
