@@ -6,7 +6,7 @@ weight: 1
 
 Web Management and SEO are essential components of maintaining a strong online presence. At BigInt LLC, we provide comprehensive services to ensure your website is effective, secure, and easily discoverable by potential customers.
 
-![Web SEO](/images/services/BigInt_web_seo.png)
+![Cloud Infrastructure](/images/services/BigInt_cloud_infra.png)
 
 # Objectives
 
