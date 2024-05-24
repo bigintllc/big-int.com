@@ -6,7 +6,7 @@
   },
   {
     "name": "Email",
-    "link": "info@big-int.com",
+    "link": "mailto:info@big-int.com",
     "image": "images/social/email.svg"
   }
 ]
